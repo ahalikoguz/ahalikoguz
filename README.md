@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## Hi, I'm Abdulhalık!
+## Hi, I'm Abdulhalık!👋
 
 Welcome to my GitHub profile! I'm an experienced computer engineer with a strong focus on machine learning (ML), deep learning (DL), and big data analysis (BDA). With over eight years of experience, I have developed a deep understanding of these cutting-edge fields through academic studies and practical applications.
 
