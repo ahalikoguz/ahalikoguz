@@ -20,6 +20,12 @@ I am passionate about collaborating with fellow developers, researchers, and org
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/aoguz-191608275/) for professional networking and updates on my latest projects.
 
+![Profile views](https://gpvc.arturio.dev/ahalikoguz)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ahalikoguz&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahalikoguz&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahalikoguz)
+![Trophies](https://github-profile-trophy.vercel.app/?username=ahalikoguz)
+
 <!--
 **ahalikoguz/ahalikoguz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
