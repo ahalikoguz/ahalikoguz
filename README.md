@@ -7,7 +7,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/aoguz-191608275/) for 
 ![Profile views](https://komarev.com/ghpvc/?username=ahalikoguz)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahalikoguz&layout=compact)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahalikoguz)
-![Trophies](https://github-profile-trophy.vercel.app/?username=ahalikoguz)
+
 
 <!--
 **ahalikoguz/ahalikoguz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/aoguz-191608275/) for 
 Here are some ideas to get you started:
 ![Profile views](https://gpvc.arturio.dev/ahalikoguz)
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ahalikoguz&show_icons=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=ahalikoguz)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
