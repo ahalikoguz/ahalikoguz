@@ -5,10 +5,12 @@ Welcome to my GitHub profile! I'm an experienced computer engineer with a strong
 Connect with me on [LinkedIn](https://www.linkedin.com/in/aoguz-191608275/) for professional networking and updates on my latest projects.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahalikoguz&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahalikoguz)
+
 
 
 <!--
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahalikoguz)
+
 **ahalikoguz/ahalikoguz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## Hi, I'm Abdulhalık!👋
