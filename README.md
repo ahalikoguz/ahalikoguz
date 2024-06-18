@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm an experienced computer engineer with a strong focus on machine learning (ML), deep learning (DL), and big data analysis (BDA). With over eight years of experience, I have developed a deep understanding of these cutting-edge fields through academic studies and practical applications.
 
-Connect with me on [LinkedIn](www.linkedin.com/in/ahalikoguz) for professional networking and updates on my latest projects.
+Connect with me on [LinkedIn]([www.linkedin.com/in/ahalikoguz](https://www.linkedin.com/in/aoguz\)) for professional networking and updates on my latest projects.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahalikoguz&layout=compact)
 
