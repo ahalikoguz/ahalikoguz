@@ -4,9 +4,6 @@ Welcome to my GitHub profile! I'm an experienced computer engineer with a strong
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/ahalikoguz/) for professional networking and updates on my latest projects.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahalikoguz&layout=compact)
-
-
 
 <!--
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahalikoguz)
